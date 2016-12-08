@@ -1,2 +1,5 @@
 # hello-world
-Learning GitHub
+
+Hey
+
+Just learning some GitHub so I can get refresh my dev skills.
